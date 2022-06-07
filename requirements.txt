@@ -1,0 +1,9 @@
+Flask-RESTful==0.3.8
+PyJWT==1.7.1
+Flask-SQLAlchemy==2.4.1
+marshmallow==3.14.1
+marshmallow-sqlalchemy==0.27.0
+datetime
+os
+wraps
+werkzeug
