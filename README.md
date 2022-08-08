@@ -1,2 +1,2 @@
 # web-service-with-flask
-Web service for license plate recognition system using flask, sqlalchemy, restful with python
+Flask is a web service written for license plate recognition system with sqlalchemy, postgresql and python.
