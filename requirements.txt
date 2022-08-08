@@ -1,0 +1,14 @@
+# pip install -r requirements.txt
+
+# base ----------------------------------------
+Flask
+Flask-SQLAlchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+requests
+jsonify
+make-response
+datetime
+wrap
+Werkzeug
+
